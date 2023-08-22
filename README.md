@@ -5,9 +5,9 @@
  They are documents from within the *complete project*
  
 ### control.c
- It describes PID control motor rotation pseudo-code
+ It describes PID control motor rotation *pseudo-code*
 
 ### ppwm.c
- It describes PID control PWM output pseudo-code
+ It describes PID control PWM output *pseudo-code*
 
  Thanks for reading and support!
